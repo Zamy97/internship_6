@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=internship_6
+POSTGRES_USER=lRyZkXlavzoFvgkCAUoYFCMPAsjEAOdC
+POSTGRES_PASSWORD=J41HXFZxxB65tJGDm5I7UdiLwpQ3eGWlzrvlHp5wUz1KbXZ7PPZ3vBHZvMv3fR1l
